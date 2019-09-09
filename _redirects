@@ -1,0 +1,5 @@
+# redirect fallback
+/:code                                                                                                      /.netlify/functions/redirect/:code
+
+# ultimate fallback
+/*                                                                                                          https://acreative.io/a
