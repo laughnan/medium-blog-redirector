@@ -1,3 +1,16 @@
+# code redirects to blog
+/5e8c7fff591c                                                                                               https://acreative.io/a/write-tests
+/f79135881554                                                                                               https://acreative.io/a/just-use-drupal-8
+/426959a9e8cf                                                                                               https://acreative.io/a/acreativelaunch
+/ea28f18634e4                                                                                               https://acreative.io/a/needing-unplug
+/8e66aec9c286                                                                                               https://acreative.io/a/do-you-trello-left-or-right
+/dd89c0648cec                                                                                               https://acreative.io/a/big-magic-big-fears-big-challenge
+/1358ad222feb                                                                                               https://acreative.io/a/2016-look-aheadby-looking-behind
+/35f3b6c4e58e                                                                                               https://acreative.io/a/self-care-freelancer
+/ce796c74e3d0                                                                                               https://acreative.io/a/publishing-my-first-contributed-module-drupalorg
+/a9e2d5714885                                                                                               https://acreative.io/a/gratitude
+/617321161cf3                                                                                               https://acreative.io/a/web-development-woes
+
 # redirect fallback
 /:code                                                                                                      /.netlify/functions/redirect/:code
 
